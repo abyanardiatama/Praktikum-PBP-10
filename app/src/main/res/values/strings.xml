@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pembelian</string>
+    <string name="content_text">Headphone ultranyaman WH-1000XM5 mengubah arti dari mendengarkan tanpa gangguan dan kejernihan panggilan yang luar biasa. Dua prosesor mengontrol beberapa mikrofon, menghasilkan noise cancelling yang belum pernah ada sebelumnya, sedangkan Auto NC Optimizer mengoptimalkan noise cancelling secara otomatis berdasarkan kondisi dan lingkungan pemakaian. Unit driver 30mm desain khusus menghasilkan kualitas suara superior untuk semua hiburan Anda.</string>
+    <string name="content_specs_display">30mm</string>
+    <string name="content_specs_size">
+        - Active Noise Cancellation\n
+        - Quick-Charge 3mins. → 1hrs (10mins → 5hrs)
+    </string>
+    <string name="content_specs_battery">10000 mAh battery\n
+    Standby time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    Audio playback (via headset): up to 110 hours\n
+    Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Size</string>
+    <string name="size">Feature</string>
+    <string name="battery">Other</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Bapak Abyan</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$100000</string>
+    <string name="dummy_photos">420 photos</string>
+    <string name="hubungics">Hubungi CS </string>
+    <string name="sudahBeli">Produk telah berhasil dibeli" </string>
+</resources>
